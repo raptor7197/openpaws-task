@@ -152,6 +152,7 @@ func validateClassification(c model.Classification) error {
 		"neutral_general_interest":   true,
 		"commercial_only":            true,
 		"misaligned_or_hostile":      true,
+		"uncertain":                  true,
 	}
 	if c.AlignmentLabel == "" {
 		return fmt.Errorf("missing alignment_label")

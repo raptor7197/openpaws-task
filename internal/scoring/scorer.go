@@ -107,9 +107,12 @@ func ScoreAccount(cfg config.Config, stats DatasetStats, account model.Account, 
 	confidence := scoreConfidence(account, class)
 
 	flags := append(alignmentFlags, authenticityFlags...)
+	sort.Strings(flags)
+	flags = slices.Compact(flags)
 	evidence := append(alignmentEvidence, authenticityEvidence...)
 	evidence = append(evidence, receptivityEvidence...)
 	evidence = append(evidence, reachEvidence...)
+	sort.Strings(evidence)
 	evidence = slices.Compact(evidence)
 
 	composite := (alignment * cfg.Weights.CauseAlignment) +
@@ -121,6 +124,7 @@ func ScoreAccount(cfg config.Config, stats DatasetStats, account model.Account, 
 	// sparse datasets do not outrank well-supported profiles too easily.
 	if confidence < cfg.LowConfidenceFloor {
 		flags = append(flags, "low_confidence", "manual_review_required")
+		sort.Strings(flags)
 		composite *= 0.90
 	}
 
