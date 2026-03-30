@@ -1,0 +1,699 @@
+{
+  "topic": "ban factory farming",
+  "results": [
+    {
+      "account": {
+        "account_id": "ig-1",
+        "platform": "instagram",
+        "handle": "@rescuevoices",
+        "display_name": "Rescue Voices",
+        "bio": "Animal rescue stories, anti-cruelty advocacy, shelter fundraising, and adopt don't shop education.",
+        "follower_count": 42000,
+        "following_count": 320,
+        "post_count": 520,
+        "verified": false,
+        "external_links": [
+          "https://example.org/rescuevoices"
+        ],
+        "topics_claimed": [
+          "animal welfare",
+          "rescue",
+          "anti-cruelty"
+        ],
+        "posts": [
+          {
+            "content_id": "ig-1-p1",
+            "account_id": "ig-1",
+            "platform": "instagram",
+            "content_type": "image",
+            "caption_or_text": "Visited a local sanctuary today and raised funds for emergency vet care. Adopt don't shop.",
+            "hashtags": [
+              "#animalwelfare",
+              "#adoptdontshop"
+            ],
+            "posted_at": "2026-03-01T10:00:00Z",
+            "like_count": 3200,
+            "comment_count": 320,
+            "share_count": 210,
+            "view_count": 18000,
+            "media_labels": [
+              "dogs",
+              "shelter"
+            ],
+            "pinned": true,
+            "high_engagement": true
+          },
+          {
+            "content_id": "ig-1-p2",
+            "account_id": "ig-1",
+            "platform": "instagram",
+            "content_type": "reel",
+            "caption_or_text": "Why anti-cruelty legislation matters for farm animals and rescue systems.",
+            "hashtags": [
+              "#anticruelty",
+              "#factoryfarming"
+            ],
+            "posted_at": "2026-03-08T10:00:00Z",
+            "like_count": 2900,
+            "comment_count": 280,
+            "share_count": 160,
+            "view_count": 22000,
+            "media_labels": [
+              "activism"
+            ],
+            "pinned": false,
+            "high_engagement": true
+          },
+          {
+            "content_id": "ig-1-p3",
+            "account_id": "ig-1",
+            "platform": "instagram",
+            "content_type": "image",
+            "caption_or_text": "Shelter adoption event this weekend. Meet the rescued dogs and support foster networks.",
+            "hashtags": [
+              "#rescue",
+              "#shelterdogs"
+            ],
+            "posted_at": "2026-03-15T10:00:00Z",
+            "like_count": 2500,
+            "comment_count": 250,
+            "share_count": 150,
+            "view_count": 14000,
+            "media_labels": [
+              "dogs",
+              "community"
+            ],
+            "pinned": false,
+            "high_engagement": false
+          }
+        ],
+        "comments": [
+          {
+            "comment_id": "c1",
+            "content_id": "ig-1-p1",
+            "author_handle": "user1",
+            "text": "Thank you for helping local shelters.",
+            "posted_at": "2026-03-01T11:00:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c2",
+            "content_id": "ig-1-p1",
+            "author_handle": "user2",
+            "text": "We adopted our dog after following your rescue tips.",
+            "posted_at": "2026-03-01T11:10:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c3",
+            "content_id": "ig-1-p2",
+            "author_handle": "user3",
+            "text": "The farm animal segment was powerful and informative.",
+            "posted_at": "2026-03-08T11:00:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c4",
+            "content_id": "ig-1-p2",
+            "author_handle": "user4",
+            "text": "Love how clearly you explain anti-cruelty policy.",
+            "posted_at": "2026-03-08T11:10:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c5",
+            "content_id": "ig-1-p3",
+            "author_handle": "user5",
+            "text": "Sharing this with our foster group.",
+            "posted_at": "2026-03-15T11:00:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c6",
+            "content_id": "ig-1-p3",
+            "author_handle": "user6",
+            "text": "Can we volunteer at the adoption event?",
+            "posted_at": "2026-03-15T11:10:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c7",
+            "content_id": "ig-1-p3",
+            "author_handle": "user7",
+            "text": "Your posts helped us find a rescue partner.",
+            "posted_at": "2026-03-15T11:20:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c8",
+            "content_id": "ig-1-p3",
+            "author_handle": "user8",
+            "text": "This is exactly the advocacy content we need.",
+            "posted_at": "2026-03-15T11:30:00Z",
+            "is_reply": false
+          }
+        ],
+        "growth_snapshots": [
+          {
+            "captured_at": "2026-02-01T00:00:00Z",
+            "follower_count": 39000
+          },
+          {
+            "captured_at": "2026-02-20T00:00:00Z",
+            "follower_count": 40500
+          },
+          {
+            "captured_at": "2026-03-20T00:00:00Z",
+            "follower_count": 42000
+          }
+        ]
+      },
+      "classification": {
+        "alignment_label": "strong_animal_welfare",
+        "alignment_confidence": 0.9,
+        "receptivity_label": "high",
+        "receptivity_score": 0.82,
+        "opportunistic": false,
+        "hostile": false,
+        "rationale": [
+          "Content repeatedly references animal rescue, cruelty prevention, or ethical treatment themes.",
+          "Audience-facing tone suggests openness to mission-driven outreach."
+        ]
+      },
+      "cause_alignment_score": 0.95,
+      "engagement_authenticity_score": 0.85,
+      "receptivity_score": 0.82,
+      "reach_score": 0.502,
+      "composite_score": 0.832,
+      "confidence_score": 0.985,
+      "flags": [],
+      "evidence": [
+        "Content repeatedly references animal rescue, cruelty prevention, or ethical treatment themes.",
+        "Audience-facing tone suggests openness to mission-driven outreach.",
+        "Comment and growth signals appear consistent with organic engagement.",
+        "Receptivity classified as high based on tone and historical cause fit.",
+        "Reach normalized within instagram and weighted by platform multiplier 1.00."
+      ]
+    },
+    {
+      "account": {
+        "account_id": "x-1",
+        "platform": "x",
+        "handle": "@ethicalfoodnow",
+        "display_name": "Ethical Food Now",
+        "bio": "Climate, food systems, sustainability, and ethical sourcing commentary.",
+        "follower_count": 34000,
+        "following_count": 890,
+        "post_count": 4100,
+        "verified": false,
+        "external_links": [
+          "https://example.org/ethicalfoodnow"
+        ],
+        "topics_claimed": [
+          "climate",
+          "ethical food",
+          "sustainability"
+        ],
+        "posts": [
+          {
+            "content_id": "x-1-p1",
+            "account_id": "x-1",
+            "platform": "x",
+            "content_type": "post",
+            "caption_or_text": "Food systems reform has to include factory farming accountability and sustainability.",
+            "hashtags": [
+              "#ethicalfood",
+              "#sustainability"
+            ],
+            "posted_at": "2026-03-03T10:00:00Z",
+            "like_count": 940,
+            "comment_count": 120,
+            "share_count": 80,
+            "view_count": 0,
+            "media_labels": [],
+            "pinned": true,
+            "high_engagement": true
+          },
+          {
+            "content_id": "x-1-p2",
+            "account_id": "x-1",
+            "platform": "x",
+            "content_type": "post",
+            "caption_or_text": "Animal welfare intersects with climate, labor, and ethical sourcing more than most brands admit.",
+            "hashtags": [
+              "#animalwelfare",
+              "#climate"
+            ],
+            "posted_at": "2026-03-11T10:00:00Z",
+            "like_count": 870,
+            "comment_count": 110,
+            "share_count": 75,
+            "view_count": 0,
+            "media_labels": [],
+            "pinned": false,
+            "high_engagement": true
+          }
+        ],
+        "comments": [
+          {
+            "comment_id": "c12",
+            "content_id": "x-1-p1",
+            "author_handle": "user12",
+            "text": "Strong thread on how farming policy affects welfare standards.",
+            "posted_at": "2026-03-03T11:00:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c13",
+            "content_id": "x-1-p2",
+            "author_handle": "user13",
+            "text": "Useful framing for climate and animal rights crossover campaigns.",
+            "posted_at": "2026-03-11T11:00:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c14",
+            "content_id": "x-1-p2",
+            "author_handle": "user14",
+            "text": "Would love to see more on ethical sourcing regulations.",
+            "posted_at": "2026-03-11T11:05:00Z",
+            "is_reply": false
+          }
+        ],
+        "growth_snapshots": [
+          {
+            "captured_at": "2026-02-01T00:00:00Z",
+            "follower_count": 30000
+          },
+          {
+            "captured_at": "2026-02-20T00:00:00Z",
+            "follower_count": 32000
+          },
+          {
+            "captured_at": "2026-03-20T00:00:00Z",
+            "follower_count": 34000
+          }
+        ]
+      },
+      "classification": {
+        "alignment_label": "strong_animal_welfare",
+        "alignment_confidence": 0.9,
+        "receptivity_label": "high",
+        "receptivity_score": 0.82,
+        "opportunistic": false,
+        "hostile": false,
+        "rationale": [
+          "Content repeatedly references animal rescue, cruelty prevention, or ethical treatment themes.",
+          "Audience-facing tone suggests openness to mission-driven outreach."
+        ]
+      },
+      "cause_alignment_score": 0.95,
+      "engagement_authenticity_score": 0.85,
+      "receptivity_score": 0.82,
+      "reach_score": 0.364,
+      "composite_score": 0.811,
+      "confidence_score": 0.535,
+      "flags": [],
+      "evidence": [
+        "Content repeatedly references animal rescue, cruelty prevention, or ethical treatment themes.",
+        "Audience-facing tone suggests openness to mission-driven outreach.",
+        "Comment and growth signals appear consistent with organic engagement.",
+        "Receptivity classified as high based on tone and historical cause fit.",
+        "Reach normalized within x and weighted by platform multiplier 0.80."
+      ]
+    },
+    {
+      "account": {
+        "account_id": "ig-2",
+        "platform": "instagram",
+        "handle": "@lifestylemax",
+        "display_name": "Lifestyle Max",
+        "bio": "Daily luxury routines, sponsored lifestyle picks, and trend-driven content.",
+        "follower_count": 180000,
+        "following_count": 120,
+        "post_count": 980,
+        "verified": true,
+        "external_links": [
+          "https://example.org/lifestylemax"
+        ],
+        "topics_claimed": [
+          "fashion",
+          "travel"
+        ],
+        "posts": [
+          {
+            "content_id": "ig-2-p1",
+            "account_id": "ig-2",
+            "platform": "instagram",
+            "content_type": "image",
+            "caption_or_text": "Use my discount code for today's sponsored drop. Shop now.",
+            "hashtags": [
+              "#sponsored",
+              "#shopnow"
+            ],
+            "posted_at": "2026-03-01T10:00:00Z",
+            "like_count": 1400,
+            "comment_count": 18,
+            "share_count": 5,
+            "view_count": 6500,
+            "media_labels": [
+              "fashion"
+            ],
+            "pinned": false,
+            "high_engagement": false
+          },
+          {
+            "content_id": "ig-2-p2",
+            "account_id": "ig-2",
+            "platform": "instagram",
+            "content_type": "image",
+            "caption_or_text": "Trying a vegan cafe for one sponsored brunch collab today.",
+            "hashtags": [
+              "#brunch",
+              "#ad"
+            ],
+            "posted_at": "2026-03-05T10:00:00Z",
+            "like_count": 1200,
+            "comment_count": 15,
+            "share_count": 3,
+            "view_count": 6100,
+            "media_labels": [
+              "food"
+            ],
+            "pinned": false,
+            "high_engagement": false
+          }
+        ],
+        "comments": [
+          {
+            "comment_id": "c9",
+            "content_id": "ig-2-p1",
+            "author_handle": "user9",
+            "text": "nice",
+            "posted_at": "2026-03-01T11:00:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c10",
+            "content_id": "ig-2-p1",
+            "author_handle": "user10",
+            "text": "love this",
+            "posted_at": "2026-03-01T11:01:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c11",
+            "content_id": "ig-2-p2",
+            "author_handle": "user11",
+            "text": "wow",
+            "posted_at": "2026-03-05T11:01:00Z",
+            "is_reply": false
+          }
+        ],
+        "growth_snapshots": [
+          {
+            "captured_at": "2026-02-01T00:00:00Z",
+            "follower_count": 178000
+          },
+          {
+            "captured_at": "2026-03-20T00:00:00Z",
+            "follower_count": 180000
+          }
+        ]
+      },
+      "classification": {
+        "alignment_label": "commercial_only",
+        "alignment_confidence": 0.76,
+        "receptivity_label": "low",
+        "receptivity_score": 0.28,
+        "opportunistic": true,
+        "hostile": false,
+        "rationale": [
+          "Commercial messaging dominates the account identity and weakens mission fit."
+        ]
+      },
+      "cause_alignment_score": 0.1,
+      "engagement_authenticity_score": 0.7,
+      "receptivity_score": 0.28,
+      "reach_score": 0.789,
+      "composite_score": 0.35,
+      "confidence_score": 0.364,
+      "flags": [
+        "misaligned",
+        "opportunistic",
+        "comment_quality_low",
+        "low_confidence",
+        "manual_review_required"
+      ],
+      "evidence": [
+        "Commercial messaging dominates the account identity and weakens mission fit.",
+        "Emoji-only or generic praise comments are unusually frequent at 100%.",
+        "Receptivity classified as low based on tone and historical cause fit.",
+        "Reach normalized within instagram and weighted by platform multiplier 1.00."
+      ]
+    },
+    {
+      "account": {
+        "account_id": "x-2",
+        "platform": "x",
+        "handle": "@viralpetbuzz",
+        "display_name": "Viral Pet Buzz",
+        "bio": "Cute pets, viral posts, promos, and fast follower growth.",
+        "follower_count": 210000,
+        "following_count": 80,
+        "post_count": 1500,
+        "verified": false,
+        "external_links": [
+          "https://example.org/viralpetbuzz"
+        ],
+        "topics_claimed": [
+          "pets",
+          "viral"
+        ],
+        "posts": [
+          {
+            "content_id": "x-2-p1",
+            "account_id": "x-2",
+            "platform": "x",
+            "content_type": "post",
+            "caption_or_text": "Cutest puppy clip today. Follow for more viral drops.",
+            "hashtags": [
+              "#puppy",
+              "#viral"
+            ],
+            "posted_at": "2026-03-02T10:00:00Z",
+            "like_count": 220,
+            "comment_count": 3,
+            "share_count": 2,
+            "view_count": 0,
+            "media_labels": [],
+            "pinned": false,
+            "high_engagement": false
+          },
+          {
+            "content_id": "x-2-p2",
+            "account_id": "x-2",
+            "platform": "x",
+            "content_type": "post",
+            "caption_or_text": "Amazing animal vibes. More content soon.",
+            "hashtags": [
+              "#animal",
+              "#trend"
+            ],
+            "posted_at": "2026-03-10T10:00:00Z",
+            "like_count": 180,
+            "comment_count": 2,
+            "share_count": 1,
+            "view_count": 0,
+            "media_labels": [],
+            "pinned": false,
+            "high_engagement": false
+          }
+        ],
+        "comments": [
+          {
+            "comment_id": "c15",
+            "content_id": "x-2-p1",
+            "author_handle": "bot1",
+            "text": "nice",
+            "posted_at": "2026-03-02T10:10:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c16",
+            "content_id": "x-2-p1",
+            "author_handle": "bot2",
+            "text": "nice",
+            "posted_at": "2026-03-02T10:11:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c17",
+            "content_id": "x-2-p1",
+            "author_handle": "bot3",
+            "text": "nice",
+            "posted_at": "2026-03-02T10:12:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c18",
+            "content_id": "x-2-p2",
+            "author_handle": "bot4",
+            "text": "🔥🔥🔥",
+            "posted_at": "2026-03-10T10:12:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c19",
+            "content_id": "x-2-p2",
+            "author_handle": "bot5",
+            "text": "nice",
+            "posted_at": "2026-03-10T10:13:00Z",
+            "is_reply": false
+          },
+          {
+            "comment_id": "c20",
+            "content_id": "x-2-p2",
+            "author_handle": "bot6",
+            "text": "wow",
+            "posted_at": "2026-03-10T10:14:00Z",
+            "is_reply": false
+          }
+        ],
+        "growth_snapshots": [
+          {
+            "captured_at": "2026-02-01T00:00:00Z",
+            "follower_count": 70000
+          },
+          {
+            "captured_at": "2026-02-20T00:00:00Z",
+            "follower_count": 73000
+          },
+          {
+            "captured_at": "2026-03-20T00:00:00Z",
+            "follower_count": 210000
+          }
+        ]
+      },
+      "classification": {
+        "alignment_label": "neutral_general_interest",
+        "alignment_confidence": 0.55,
+        "receptivity_label": "low",
+        "receptivity_score": 0.35,
+        "opportunistic": false,
+        "hostile": false,
+        "rationale": [
+          "Limited direct evidence of sustained cause advocacy."
+        ]
+      },
+      "cause_alignment_score": 0.45,
+      "engagement_authenticity_score": 0.05,
+      "receptivity_score": 0.35,
+      "reach_score": 0.572,
+      "composite_score": 0.348,
+      "confidence_score": 0.483,
+      "flags": [
+        "engagement_suspicious",
+        "comment_quality_low",
+        "growth_suspicious"
+      ],
+      "evidence": [
+        "Limited direct evidence of sustained cause advocacy.",
+        "Repeated low-information comments detected across 67% of sampled comments.",
+        "Emoji-only or generic praise comments are unusually frequent at 100%.",
+        "Comment text diversity is low at 50% unique content.",
+        "Follower growth spiked 188% between snapshots without corroborating evidence.",
+        "Receptivity classified as low based on tone and historical cause fit.",
+        "Reach normalized within x and weighted by platform multiplier 0.80."
+      ]
+    },
+    {
+      "account": {
+        "account_id": "x-3",
+        "platform": "x",
+        "handle": "@antiveganvoice",
+        "display_name": "Anti Vegan Voice",
+        "bio": "Animal activists are extremists and anti-vegan commentary all day.",
+        "follower_count": 28000,
+        "following_count": 500,
+        "post_count": 2200,
+        "verified": false,
+        "external_links": [
+          "https://example.org/antiveganvoice"
+        ],
+        "topics_claimed": [
+          "commentary"
+        ],
+        "posts": [
+          {
+            "content_id": "x-3-p1",
+            "account_id": "x-3",
+            "platform": "x",
+            "content_type": "post",
+            "caption_or_text": "Animal activists are extremists and factory farming criticism is fake outrage.",
+            "hashtags": [
+              "#commentary"
+            ],
+            "posted_at": "2026-03-04T10:00:00Z",
+            "like_count": 650,
+            "comment_count": 90,
+            "share_count": 70,
+            "view_count": 0,
+            "media_labels": [],
+            "pinned": true,
+            "high_engagement": true
+          }
+        ],
+        "comments": [
+          {
+            "comment_id": "c21",
+            "content_id": "x-3-p1",
+            "author_handle": "user15",
+            "text": "Strong rebuttal thread.",
+            "posted_at": "2026-03-04T11:00:00Z",
+            "is_reply": false
+          }
+        ],
+        "growth_snapshots": [
+          {
+            "captured_at": "2026-02-01T00:00:00Z",
+            "follower_count": 26000
+          },
+          {
+            "captured_at": "2026-03-20T00:00:00Z",
+            "follower_count": 28000
+          }
+        ]
+      },
+      "classification": {
+        "alignment_label": "misaligned_or_hostile",
+        "alignment_confidence": 0.88,
+        "receptivity_label": "very_low",
+        "receptivity_score": 0.05,
+        "opportunistic": false,
+        "hostile": true,
+        "rationale": [
+          "Account signals direct hostility or opposition to the campaign topic."
+        ]
+      },
+      "cause_alignment_score": 0.05,
+      "engagement_authenticity_score": 0.85,
+      "receptivity_score": 0.05,
+      "reach_score": 0.276,
+      "composite_score": 0.256,
+      "confidence_score": 0.382,
+      "flags": [
+        "misaligned",
+        "hostile",
+        "low_confidence",
+        "manual_review_required"
+      ],
+      "evidence": [
+        "Account signals direct hostility or opposition to the campaign topic.",
+        "Comment and growth signals appear consistent with organic engagement.",
+        "Receptivity classified as very_low based on tone and historical cause fit.",
+        "Reach normalized within x and weighted by platform multiplier 0.80."
+      ]
+    }
+  ]
+}
